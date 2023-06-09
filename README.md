@@ -1,4 +1,4 @@
 # Responsive-food-webite
- This is my first responsive front-end website created with HTML and CSS. All thanks to codewithharry!
+ This is a food website created using HTML and CSS. (Except navigation bar everything is responsive).
 
 Live link: https://shubhampatil1602.github.io/Responsive-food-webite/
