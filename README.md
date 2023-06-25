@@ -1,4 +1,4 @@
 # Responsive-food-webite
- This is a food website created using HTML and CSS. (Except navigation bar everything is responsive).
+Did this small project as a part of CodeWithHarry's web dev course.
 
 Live link: https://shubhampatil1602.github.io/Responsive-food-webite/
